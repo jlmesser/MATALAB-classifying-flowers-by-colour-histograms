@@ -1,0 +1,1 @@
+To run program - run cw2_GUI.m
